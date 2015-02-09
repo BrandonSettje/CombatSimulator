@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\combatSimsnowballFight\combatSimsnowballFight\bin\Debug\combatSimsnowballFight.exe.config
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\combatSimsnowballFight\combatSimsnowballFight\bin\Debug\combatSimsnowballFight.exe
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\combatSimsnowballFight\combatSimsnowballFight\bin\Debug\combatSimsnowballFight.pdb
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\combatSimsnowballFight\combatSimsnowballFight\obj\Debug\combatSimsnowballFight.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\combatSimsnowballFight\combatSimsnowballFight\obj\Debug\combatSimsnowballFight.exe
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\combatSimsnowballFight\combatSimsnowballFight\obj\Debug\combatSimsnowballFight.pdb
